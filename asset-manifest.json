@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/golf-preorder-app/static/css/main.71d47b82.css",
+    "main.js": "/golf-preorder-app/static/js/main.67cd4704.js",
+    "index.html": "/golf-preorder-app/index.html",
+    "main.71d47b82.css.map": "/golf-preorder-app/static/css/main.71d47b82.css.map",
+    "main.67cd4704.js.map": "/golf-preorder-app/static/js/main.67cd4704.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d47b82.css",
+    "static/js/main.67cd4704.js"
+  ]
+}
