@@ -5,6 +5,7 @@
   "homepage": "https://jguzikowski.github.io/golf-order-app",
   "dependencies": {
     "axios": "^1.4.0",
+    "express": "^4.21.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
@@ -15,9 +16,11 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "server": "node server.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "proxy": "http://localhost:5000",
   "browserslist": {
     "production": [
       ">0.2%",
