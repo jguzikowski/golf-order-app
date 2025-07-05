@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/golf-order-app/static/css/main.06099c47.css",
+    "main.js": "/golf-order-app/static/js/main.88397ad4.js",
+    "index.html": "/golf-order-app/index.html",
+    "main.06099c47.css.map": "/golf-order-app/static/css/main.06099c47.css.map",
+    "main.88397ad4.js.map": "/golf-order-app/static/js/main.88397ad4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06099c47.css",
+    "static/js/main.88397ad4.js"
+  ]
+}
