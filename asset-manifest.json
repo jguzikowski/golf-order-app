@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/golf-order-app/static/css/main.71d47b82.css",
-    "main.js": "/golf-order-app/static/js/main.67cd4704.js",
+    "main.css": "/golf-order-app/static/css/main.06099c47.css",
+    "main.js": "/golf-order-app/static/js/main.88397ad4.js",
     "index.html": "/golf-order-app/index.html",
-    "main.71d47b82.css.map": "/golf-order-app/static/css/main.71d47b82.css.map",
-    "main.67cd4704.js.map": "/golf-order-app/static/js/main.67cd4704.js.map"
+    "main.06099c47.css.map": "/golf-order-app/static/css/main.06099c47.css.map",
+    "main.88397ad4.js.map": "/golf-order-app/static/js/main.88397ad4.js.map"
   },
   "entrypoints": [
-    "static/css/main.71d47b82.css",
-    "static/js/main.67cd4704.js"
+    "static/css/main.06099c47.css",
+    "static/js/main.88397ad4.js"
   ]
 }
